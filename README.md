@@ -1,0 +1,3 @@
+# 2D_LiDAR_compression
+LiDAR-Point-Cloud-Compression-master表示对于激光雷达点云深度图像平面拟合空间压缩的程序，可按照README文件进行编译和调试。
+Pytorch-sepconv-master表示对于激光雷达点云深度图像网络插帧时间压缩的程序，里面2rangeimage文件夹表示将三维点云转为点云深度图像的程序，contrast_result文件夹存放一些实验结果（可以忽略)，pytorch-sepconv-master文件夹是主程序，可以按照README文件进行环境搭建和程序调试。
